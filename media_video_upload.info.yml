@@ -1,0 +1,7 @@
+name: 'Media Video Upload'
+type: module
+description: 'Provides a widget that will create media entities of the uploaded video.'
+core: 8.x
+package: 'Media'
+dependencies:
+  - entity_browser
